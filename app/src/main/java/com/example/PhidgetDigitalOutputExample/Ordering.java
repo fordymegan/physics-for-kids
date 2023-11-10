@@ -71,7 +71,7 @@ public class Ordering extends Activity {
 
             this.getSystemService(Context.NSD_SERVICE);
             Net.enableServerDiscovery(ServerType.DEVICE_REMOTE);
-            Net.addServer("LAPTOP-V64H9NM1", "172.28.160.1", 5661, "", 0); // RPi @ Home
+            Net.addServer("", "", "", "", ""); // RPi @ Home
 
 
 
