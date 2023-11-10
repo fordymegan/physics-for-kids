@@ -77,7 +77,7 @@ public class Angles extends Activity {
             Net.enableServerDiscovery(ServerType.DEVICE_REMOTE);
 //
 //            //Add a specific network server to communicate with Phidgets remotely
-            Net.addServer("LAPTOP-V64H9NM1", "172.28.160.1", 5661, "", 0); // RPi @ Home
+            Net.addServer("", "", , "", ""); // RPi @ Home
 
             //Set addressing parameters to specify which channel to open (if any)
             rc1.setDeviceSerialNumber(14875);
