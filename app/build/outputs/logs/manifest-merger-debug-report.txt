@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\megan\.gradle\caches\transforms-3\32cc05d1e5a02410d9a2d708103617d5\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\megan\.gradle\caches\transforms-3\3ccfcc69aeb83ee4765705548fbb8bac\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\645f318c4ebcb188fdeef34e54eb2080\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\e70e18ee7ba81f9b02b666c18305da00\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\megan\.gradle\caches\transforms-3\5fd5c82be546a2e55e2cb22cb742c398\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\94d70cf1994728adb27b5add88bddd04\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\0cebed27099a464990b6c039c4a1e8f8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\ba0832c2cd2f39ba95319219cf02d786\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\ca7f858099b3da066c914120eb6fab0b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\ea3ac6d4d9eb61ac887ac860ffbbaff7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\5ae89f0f856def303c82eb39afd66362\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\361c14ca22d6700fb6d51ab71c61ac49\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\f680ad805e835fa32d51d76bdf5f9055\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\97fe288cfffdc64253b4eaf33203a34c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\7f50cf5e1a2c83642c539761ed4c268e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\680fbfd828b9e432fb789a4716110ecd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\46c1bd34c9f97fa2400bafa0e77a6269\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\bb32082463eef8d3360f86764a2a8314\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\0316c9f86789143f3f21e901e7652425\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\0456443e6bc6c68b5c4770b5e830c459\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\5783168259fd5b6be7d821b7431a5043\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\dba263b19cc638e10ded14355efa3e1a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\megan\.gradle\caches\transforms-3\3532625c012cfac51870d10db9b5939d\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\megan\.gradle\caches\transforms-3\00c8ed45d6e0f902695569861d3392e6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\a3b53b756d35089ada6303795c61d21e\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\60a23a23dfc22fdfa8eed8ab1d7c4178\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\6a135f65570bd00f5ecb300980f94f58\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\56d4584fae4b5ae2a1b5305aa389e0e9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\c9e955973883822b771e9873d02a9fd1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\865f0ef71b1c4436f0751954c494003e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\f90097b6ee75e64c0d0cbb3638fe477c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\192af651d7536a4b2d849711635f0a4a\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\fe85b85e67f5545609796b7b8139c0ff\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\megan\.gradle\caches\transforms-3\32cc05d1e5a02410d9a2d708103617d5\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\megan\.gradle\caches\transforms-3\32cc05d1e5a02410d9a2d708103617d5\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\megan\.gradle\caches\transforms-3\3ccfcc69aeb83ee4765705548fbb8bac\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\megan\.gradle\caches\transforms-3\3ccfcc69aeb83ee4765705548fbb8bac\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\645f318c4ebcb188fdeef34e54eb2080\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\645f318c4ebcb188fdeef34e54eb2080\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\e70e18ee7ba81f9b02b666c18305da00\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\e70e18ee7ba81f9b02b666c18305da00\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\megan\.gradle\caches\transforms-3\5fd5c82be546a2e55e2cb22cb742c398\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\megan\.gradle\caches\transforms-3\5fd5c82be546a2e55e2cb22cb742c398\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\94d70cf1994728adb27b5add88bddd04\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\94d70cf1994728adb27b5add88bddd04\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\0cebed27099a464990b6c039c4a1e8f8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\0cebed27099a464990b6c039c4a1e8f8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\ba0832c2cd2f39ba95319219cf02d786\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\ba0832c2cd2f39ba95319219cf02d786\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\ca7f858099b3da066c914120eb6fab0b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\ca7f858099b3da066c914120eb6fab0b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\ea3ac6d4d9eb61ac887ac860ffbbaff7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\ea3ac6d4d9eb61ac887ac860ffbbaff7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\5ae89f0f856def303c82eb39afd66362\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\5ae89f0f856def303c82eb39afd66362\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\361c14ca22d6700fb6d51ab71c61ac49\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\megan\.gradle\caches\transforms-3\361c14ca22d6700fb6d51ab71c61ac49\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\f680ad805e835fa32d51d76bdf5f9055\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\f680ad805e835fa32d51d76bdf5f9055\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\97fe288cfffdc64253b4eaf33203a34c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\97fe288cfffdc64253b4eaf33203a34c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\7f50cf5e1a2c83642c539761ed4c268e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\7f50cf5e1a2c83642c539761ed4c268e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\680fbfd828b9e432fb789a4716110ecd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\680fbfd828b9e432fb789a4716110ecd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\46c1bd34c9f97fa2400bafa0e77a6269\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\46c1bd34c9f97fa2400bafa0e77a6269\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\bb32082463eef8d3360f86764a2a8314\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\bb32082463eef8d3360f86764a2a8314\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\0316c9f86789143f3f21e901e7652425\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\0316c9f86789143f3f21e901e7652425\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\0456443e6bc6c68b5c4770b5e830c459\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\0456443e6bc6c68b5c4770b5e830c459\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\5783168259fd5b6be7d821b7431a5043\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\5783168259fd5b6be7d821b7431a5043\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\dba263b19cc638e10ded14355efa3e1a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\dba263b19cc638e10ded14355efa3e1a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\megan\.gradle\caches\transforms-3\3532625c012cfac51870d10db9b5939d\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\megan\.gradle\caches\transforms-3\3532625c012cfac51870d10db9b5939d\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\megan\.gradle\caches\transforms-3\00c8ed45d6e0f902695569861d3392e6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\megan\.gradle\caches\transforms-3\00c8ed45d6e0f902695569861d3392e6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\a3b53b756d35089ada6303795c61d21e\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\a3b53b756d35089ada6303795c61d21e\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\60a23a23dfc22fdfa8eed8ab1d7c4178\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\60a23a23dfc22fdfa8eed8ab1d7c4178\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\6a135f65570bd00f5ecb300980f94f58\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\6a135f65570bd00f5ecb300980f94f58\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\56d4584fae4b5ae2a1b5305aa389e0e9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\56d4584fae4b5ae2a1b5305aa389e0e9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\c9e955973883822b771e9873d02a9fd1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\c9e955973883822b771e9873d02a9fd1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\865f0ef71b1c4436f0751954c494003e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\865f0ef71b1c4436f0751954c494003e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\f90097b6ee75e64c0d0cbb3638fe477c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\f90097b6ee75e64c0d0cbb3638fe477c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\192af651d7536a4b2d849711635f0a4a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\megan\.gradle\caches\transforms-3\192af651d7536a4b2d849711635f0a4a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\fe85b85e67f5545609796b7b8139c0ff\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\megan\.gradle\caches\transforms-3\fe85b85e67f5545609796b7b8139c0ff\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:10:9-49
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\megan\.gradle\caches\transforms-3\32cc05d1e5a02410d9a2d708103617d5\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\megan\.gradle\caches\transforms-3\32cc05d1e5a02410d9a2d708103617d5\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\megan\.gradle\caches\transforms-3\3ccfcc69aeb83ee4765705548fbb8bac\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\megan\.gradle\caches\transforms-3\3ccfcc69aeb83ee4765705548fbb8bac\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\dba263b19cc638e10ded14355efa3e1a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\megan\.gradle\caches\transforms-3\dba263b19cc638e10ded14355efa3e1a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:15:9-45
+activity#com.example.PhidgetDigitalOutputExample.DigitalOutputExample
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:19:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.PhidgetDigitalOutputExample.Ordering
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:28:13-37
+activity#com.example.PhidgetDigitalOutputExample.Weights
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:34:13-58
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:33:13-36
+activity#com.example.PhidgetDigitalOutputExample.Angles
+ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:39:13-59
+	android:name
+		ADDED from C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:38:13-35

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.PhidgetDigitalOutputExample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="28"
+        android:targetSdkVersion="30" />
+
+    <uses-feature
+        android:name="android.hardware.usb.host"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="com.example.PhidgetDigitalOutputExample.DigitalOutputExample"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.PhidgetDigitalOutputExample.Ordering"
+            android:label="Order the Planets!"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.PhidgetDigitalOutputExample.Weights"
+            android:label="Learn about Material Density!"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.PhidgetDigitalOutputExample.Angles"
+            android:label="Find out the Axis of Rotation!"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

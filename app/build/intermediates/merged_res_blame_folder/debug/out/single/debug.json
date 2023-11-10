@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout_weightview.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout\\weightview.xml"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout-v14_orderview.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout-v14\\orderview.xml"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout_listview.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout_orderview.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout\\orderview.xml"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout-v21_orderview.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout-v21\\orderview.xml"
+    },
+    {
+        "merged": "com.example.PhidgetDigitalOutputExample.app-merged_res-15:/layout_weightview.xml.flat",
+        "source": "com.example.PhidgetDigitalOutputExample.app-main-17:/layout/weightview.xml"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout_angleview.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout\\angleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-merged_res-15:\\layout_main.xml.flat",
+        "source": "C:\\Users\\megan\\.gradle\\daemon\\7.5\\com.example.PhidgetDigitalOutputExample.app-main-17:\\layout\\main.xml"
+    }
+]

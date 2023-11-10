@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.PhidgetDigitalOutputExample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+8        android:minSdkVersion="28"
+8-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:15-41
+9        android:targetSdkVersion="30" />
+9-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:7:5-44
+10
+11    <uses-feature
+11-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:9:5-11:36
+12        android:name="android.hardware.usb.host"
+12-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:10:9-49
+13        android:required="false" />
+13-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:11:9-33
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:12:5-67
+15-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:12:22-64
+16
+17    <application
+17-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:14:5-42:19
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.1] C:\Users\megan\.gradle\caches\transforms-3\c76a2b3b209f9c91eeb64dfad70900db\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@drawable/ic_launcher"
+21-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:15:9-45
+22        android:label="@string/app_name"
+22-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:16:9-41
+23        android:testOnly="true" >
+24        <activity
+24-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:17:9-25:20
+25            android:name="com.example.PhidgetDigitalOutputExample.DigitalOutputExample"
+25-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:19:13-88
+26            android:label="@string/app_name" >
+26-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:18:13-45
+27            <intent-filter>
+27-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:20:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:21:17-69
+28-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:23:17-77
+30-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:27:9-31:20
+34            android:name="com.example.PhidgetDigitalOutputExample.Ordering"
+34-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:28:13-37
+35            android:label="Order the Planets!"
+35-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:29:13-47
+36            android:screenOrientation="portrait" >
+36-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:30:13-49
+37        </activity>
+38        <activity
+38-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:32:9-36:20
+39            android:name="com.example.PhidgetDigitalOutputExample.Weights"
+39-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:33:13-36
+40            android:label="Learn about Material Density!"
+40-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:34:13-58
+41            android:screenOrientation="portrait" >
+41-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:35:13-49
+42        </activity>
+43        <activity
+43-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:37:9-41:20
+44            android:name="com.example.PhidgetDigitalOutputExample.Angles"
+44-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:38:13-35
+45            android:label="Find out the Axis of Rotation!"
+45-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:39:13-59
+46            android:screenOrientation="portrait" >
+46-->C:\Users\megan\Desktop\DigitalOutput\app\src\main\AndroidManifest.xml:40:13-49
+47        </activity>
+48    </application>
+49
+50</manifest>
